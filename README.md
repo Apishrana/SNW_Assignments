@@ -1,4 +1,4 @@
-# Markdown heading SNW assignments
+# SNW Assignments
 
 Table - Friday, 24 October 2025
 
