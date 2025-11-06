@@ -1,4 +1,4 @@
-SNW asignments
+SNW assignments
 
 Table - Friday, 24 October 2025 
 
