@@ -1,6 +1,6 @@
-<h1 align="center"><img src="https://placekitten.com/300/150"/></h1>
-
-SNW assignments
+<h1 align="center">
+    SNW assignments
+</h1>
 
 Table - Friday, 24 October 2025
 
