@@ -6,7 +6,7 @@ This repository contains my assignments for the SNW course.
 
 ## 📂 Assignment List
 
-### ✅ Table  
+### ✅ Table
 
 **Date Completed:** Friday, 24 October 2025  
 ✔ Demonstrates basic HTML table structure and styling.  
@@ -14,7 +14,7 @@ This repository contains my assignments for the SNW course.
 
 ---
 
-### ✅ Boxes  
+### ✅ Boxes
 
 **Date Completed:** Wednesday, 5 November 2025  
 ✔ Demonstrates `box-sizing: border-box;`.  
@@ -30,10 +30,18 @@ This repository contains my assignments for the SNW course.
 
 ---
 
+### ✅ University Student Performance Dashboard
+
+**Date Completed:** Monday, 10 November 2025  
+✔ A visual dashboard demonstrating student performance metrics using HTML and CSS.  
+🔗 [Open USP Dashboard Folder](USP%20Dashboard/)
+
+---
+
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
+-   HTML5
+-   CSS3
 
 ---
 

@@ -1,0 +1,57 @@
+* {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    box-sizing: border-box;
+}
+
+.usp-title {
+    font-weight: bold;
+    margin-top: 20px;
+    text-decoration: underline;
+    color: rgb(0, 0, 133);
+}
+
+.dr {
+    padding-top: 30px;
+    font-weight: bold;
+    font-size: 22px;
+    color: rgb(0, 0, 133);
+}
+.ea {
+    padding-top: 20px;
+    padding-bottom: 15px;
+    font-weight: bold;
+    font-size: 22px;
+    color: rgb(0, 0, 133);
+}
+
+table,
+th,
+td,
+tr {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.th1 {
+    background-color: rgb(51, 117, 177);
+    color: white;
+}
+td,
+th {
+    font-size: 20px;
+    padding: 10px;
+    width: 300px;
+}
+
+.ap {
+    font-weight: bold;
+    background-color: rgb(210, 246, 198);
+}
+
+.bb {
+    background-color: rgb(234, 244, 249);
+}
+.th2 {
+    background-color: rgb(221, 237, 253);
+    width: 400px;
+}
