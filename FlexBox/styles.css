@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    width: 100vh;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+.box {
+    width: 33vh;
+    height: 33vh;
+    margin: 0;
+    padding: 0;
+}
+.one {
+    background-color: rgb(68, 134, 248);
+    align-self: flex-start;
+}
+.two {
+    background-color: rgb(253, 149, 30);
+    align-self: center;
+}
+.three {
+    background-color: rgb(255, 84, 255);
+    align-self: flex-end;
+}

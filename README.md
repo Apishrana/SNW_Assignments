@@ -38,6 +38,14 @@ This repository contains my assignments for the SNW course.
 
 ---
 
+### ✅ FlexBox
+
+**Date Completed:** Monday, 17 November 2025  
+✔ Demonstrates `display: flex;`.  
+🔗 [Open FlexBox Folder](FlexBox/)
+
+---
+
 ## 🛠️ Technologies Used
 
 -   HTML5
